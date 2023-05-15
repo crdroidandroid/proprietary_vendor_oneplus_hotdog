@@ -463,6 +463,9 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/80ms_RTP_166Hz.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/80ms_RTP_166Hz.bin \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/80ms_RTP_170Hz.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/80ms_RTP_170Hz.bin \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/80ms_RTP_174Hz.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/80ms_RTP_174Hz.bin \
+    vendor/oneplus/hotdog/proprietary/vendor/firmware/a640_zap.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/a640_zap.b01 \
+    vendor/oneplus/hotdog/proprietary/vendor/firmware/a640_zap.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/a640_zap.elf \
+    vendor/oneplus/hotdog/proprietary/vendor/firmware/a640_zap.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/a640_zap.mdt \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/aw8697_About_School_RTP_17.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_About_School_RTP_17.bin \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/aw8697_About_School_RTP_17_234Hz.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_About_School_RTP_17_234Hz.bin \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/aw8697_Appear_channel_RTP_coloros7_123.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_Appear_channel_RTP_coloros7_123.bin \
@@ -755,6 +758,12 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/aw8697_weather_wind_RTP_coloros7_142_234Hz.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/aw8697_weather_wind_RTP_coloros7_142_234Hz.bin \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/awinic_haptic_gun_params.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/awinic_haptic_gun_params.bin \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/awinic_haptic_params.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/awinic_haptic_params.bin \
+    vendor/oneplus/hotdog/proprietary/vendor/firmware/ipa_fws.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.b01 \
+    vendor/oneplus/hotdog/proprietary/vendor/firmware/ipa_fws.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.elf \
+    vendor/oneplus/hotdog/proprietary/vendor/firmware/ipa_fws.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_fws.mdt \
+    vendor/oneplus/hotdog/proprietary/vendor/firmware/ipa_uc.b01:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.b01 \
+    vendor/oneplus/hotdog/proprietary/vendor/firmware/ipa_uc.elf:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.elf \
+    vendor/oneplus/hotdog/proprietary/vendor/firmware/ipa_uc.mdt:$(TARGET_COPY_OUT_VENDOR)/firmware/ipa_uc.mdt \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/ringtone_Guitar_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ringtone_Guitar_RTP.bin \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/ringtone_Harping_RTP.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/ringtone_Harping_RTP.bin \
     vendor/oneplus/hotdog/proprietary/vendor/firmware/shuntai24k_rtp.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/shuntai24k_rtp.bin \
